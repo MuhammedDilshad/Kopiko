@@ -1,0 +1,83 @@
+body{
+    margin: 0;
+}
+.right-section{
+    display: flex;
+    background-color: black;
+    color: #ffffff;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    font-size: 30px;
+   justify-content:flex-end;
+}
+.caption{
+    padding-right: 100px;
+}
+.first-image{
+    height: 1000px;
+}
+.header-image-one{
+    height: 200px;
+    margin-right: 300px;
+}
+.second-image-one{
+    background-color: black;
+    display: flex;
+}
+.second-image{
+    height: 350px;
+    padding-top: 300px;
+    padding-bottom: 300px;
+    padding-left: 300px;
+}
+.second-image-heading{
+    color: white;
+    font-size: 100px;
+    margin-top: 200px;
+}
+.second-image-paragraph{
+    color: white;
+    font-size: 45px;
+}
+.second-image-head{
+    margin-left: 100px;
+}
+.third-image-one{
+    float: left;
+    position: relative;
+}
+.third-image{
+    height: 1100px;
+    width: 2700px;
+    float: left;
+}
+.third-image-heading{
+    color:red;
+    margin-top: 100px;
+    position: absolute;
+    font-size: 100px;
+    float: left;
+    padding-left: 1300px;
+}
+.third-image-paragraph{
+    color: black;
+    font-size: 45px;
+}
+.fourth-image-one{
+    position: relative;
+    float: left;
+}
+.fourth-image{
+    height: 1100px;
+    width: 2700px;
+    float: left;
+}
+.fourth-image-heading{
+    float: left;
+    position: absolute;
+    color: white;
+    text-align: center;
+    padding-left: 500px;
+    font-size: 50px;
+    padding-top:200px ;
+}
